@@ -19,3 +19,7 @@ A minimal Ren'Py "stub" project that shows how to call a locally-running LLM (vi
 4. Select the folder with the cloned repository as Ren'Py source folder (Preferences -> General -> Projects Directory) 
 5. Optionally, open the file `script.rpy` and adjust `MODEL_NAME` and `LMSTUDIO_BASE` 
 7. Run the Ren'Py project through the Ren'Py launcher
+
+## Screenshot
+
+![Screenshot of the RenPy LLM prototype](Screenshot-renpy-llm.png)
